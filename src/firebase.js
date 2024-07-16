@@ -4,12 +4,12 @@ import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
   // Replace with your Firebase configuration
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyDgM9W1xlrXOLYjpiBq_JhcuvH7RLC0uiw",
+  authDomain: "mynotcoin-9a9c2.firebaseapp.com",
+  projectId: "mynotcoin-9a9c2",
+  storageBucket: "mynotcoin-9a9c2.appspot.com",
+  messagingSenderId: "654248547777",
+  appId: "1:654248547777:web:91822e10853bbcb2800b40"
 };
 
 const app = initializeApp(firebaseConfig);
